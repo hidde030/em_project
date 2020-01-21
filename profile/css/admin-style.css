@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+  background-image: url("https://wallpapercave.com/wp/8UWArNC.jpg")!important;
+}
+.previous-page{
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  font-size: 1.3em;
+}
+.previous-page a{
+  color: #fefefe;
+}
+@media (max-width: 770px) {
+  body{
+    background-image: none!important;
+    background-color: #292B2F!important;
+  }
+}

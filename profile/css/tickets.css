@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.header-event {
+    font-weight: bold;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    padding-top: 3.5%;
+}
+
+#eventform {
+    background-color: #4eb8a1;
+    width: 100%;
+
+}
+
+#innerform form {
+    margin: 0 auto;
+    width: 80%;
+    background-color: #4eb8a1;
+    padding: 5%;
+    color: #ffffff;
+}
+
+.labelwidth {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 95%;
+    border-radius: 5px;
+    min-height: 28px;
+}
+
+.labelwidth-small {
+    float: left;
+    border-radius: 5px;
+    min-height: 28px;
+    width: 45%;
+}
+
+.labelfloat {
+    margin-left: 50%;
+    margin-top: -16.5%;
+    float: left;
+}
+
+#label1 {
+    margin-top: -20%;
+}
+
+.clear {
+    clear: both;
+}
+
+.submit {
+    background-color: #535353;
+    margin-left: 2.5%;
+    width: 90%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+}
